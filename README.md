@@ -3,7 +3,7 @@
 **Software Engineer | Full-Stack Developer**  
 
 🌐 [Portfolio](https://jaafar-rizk-portfolioite.base44.app) • 💼 [LinkedIn](https://www.linkedin.com/in/jaafar-rezk-software-engineer-full-stack-developer) • 🧑‍💻 [GitHub](https://github.com/JaafarRezk)  
-📧 jaafarrezk98@gmail.com • 📱 +963938144669 (WhatsApp)  
+📧 jaafarrezk98@gmail.com • 📱 [WhatsApp](https://wa.me/963938144669)
 📍 Damascus, Syria
 
 ---
