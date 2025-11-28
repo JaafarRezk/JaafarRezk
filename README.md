@@ -2,9 +2,9 @@
 
 **Software Engineer | Full-Stack Developer**  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://jaafar-rizk-portfolioite.base44.app)  
-[![GitHub](https://img.shields.io/badge/GitHub-@JaafarRezk-black?style=flat&logo=github)](https://github.com/JaafarRezk)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jaafar-rezk-software-engineer-full-stack-developer)
+🌐 [Portfolio](https://jaafar-rizk-portfolioite.base44.app) • 💼 [LinkedIn](https://www.linkedin.com/in/jaafar-rezk-software-engineer-full-stack-developer) • 🧑‍💻 [GitHub](https://github.com/JaafarRezk)  
+📧 jaafarrezk98@gmail.com • 📱 +963938144669 (WhatsApp)  
+📍 Damascus, Syria
 
 ---
 
