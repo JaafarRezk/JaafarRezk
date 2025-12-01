@@ -51,7 +51,13 @@ TDD, PHPUnit, Integration & Load Testing, JWT, OAuth2, SSL/TLS, Data Encryption,
 ### **Back-End Developer** – Ather Company | Mar 2024 – Jun 2024
 - Developed **integrated web applications** with Laravel  
 - Implemented **real-time features** using WebSocket & Pusher  
-- Improved database efficiency and application performance  
+- Improved database efficiency and application performance
+
+### **System Analysis** & Development – Softora  (Remote) | 2023–Present
+Led multiple projects following a structured SDLC, analyzing workflows, designing scalable system architectures, and delivering full-stack solutions.
+Created user stories, tasks, and interactive prototypes to translate business requirements into actionable development items.
+Defined integration points with external services (payment gateways, messaging systems) to ensure seamless system interoperability.
+Delivered solutions that enhanced operational efficiency, reduced errors, and strengthened platform reliability across multi-user environments.
 
 ### **Laravel Developer** – Maizny Company | Feb 2023 – Jan 2024
 - Maintained **RESTful APIs** following MVC architecture  
@@ -76,8 +82,8 @@ TDD, PHPUnit, Integration & Load Testing, JWT, OAuth2, SSL/TLS, Data Encryption,
 
 ## 🏆 Certifications
 
-- **Business Analysis Basics** – Simplilearn | Nov 2025  
-- **Agile Scrum Master** – Simplilearn | Nov 2025  
+- **Business Analysis Basics** – Simplilearn 
+- **Agile Scrum Master** – Simplilearn 
 
 ---
 
